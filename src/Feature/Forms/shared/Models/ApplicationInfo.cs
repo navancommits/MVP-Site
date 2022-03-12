@@ -27,5 +27,5 @@ namespace Mvp.Feature.Forms.Shared.Models
         public IEnumerable<Country> Country { get; set; }
         public IEnumerable<EmploymentStatus> EmploymentStatus { get; set; }
         public IEnumerable<MVPCategory> MVPCategory { get; set; }
-    }
+    }    
 }

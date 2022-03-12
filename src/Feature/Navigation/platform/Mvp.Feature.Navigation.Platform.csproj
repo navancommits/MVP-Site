@@ -12,4 +12,7 @@
     <PackageReference Include="Sitecore.Kernel" />
     <PackageReference Include="Sitecore.LayoutService" />
   </ItemGroup>
+    <ItemGroup>
+      <ProjectReference Include="..\shared\Mvp.Feature.Navigation.Shared.csproj" />
+    </ItemGroup>
 </Project>

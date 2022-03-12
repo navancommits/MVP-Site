@@ -25,6 +25,7 @@
         <PackageReference Update="Sitecore.LayoutService.Mvc" Version="8.0.*" />
         <PackageReference Update="Sitecore.Services.GraphQL" Version="6.0.*" />
         <PackageReference Update="Sitecore.Services.GraphQL.ContentSchema" Version="6.0.*" />
+        <PackageReference Update="xsitemap"  Version="2.1.0"  />
 
         <PackageReference Update="GraphQL.Client" Version="3.1.6" />
         <PackageReference Update="GraphQL.Client.Serializer.Newtonsoft" Version="3.1.6" />
